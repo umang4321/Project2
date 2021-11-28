@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fa61690-10b0-4ace-8b4c-0fd86c002d52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculator/addition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/calculation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/multiplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/subtraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1fa61690-10b0-4ace-8b4c-0fd86c002d52" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +82,7 @@
       <workItem from="1638052893367" duration="2017000" />
       <workItem from="1638058081825" duration="21000" />
       <workItem from="1638058110249" duration="2000" />
-      <workItem from="1638058140742" duration="13281000" />
+      <workItem from="1638058140742" duration="13565000" />
     </task>
     <task id="LOCAL-00001" summary="Project 2 initiated">
       <created>1638053321033</created>
@@ -113,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638053770547</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Article 1 updated code">
+      <created>1638139437132</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638139437134</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project 2 initiated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project 2 initiated" />
+    <MESSAGE value="Article 1 updated code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Article 1 updated code" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project2$main.coverage" NAME="main Coverage Results" MODIFIED="1637716158448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
