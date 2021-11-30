@@ -1,8 +1,8 @@
 """ This is the increment function"""
-from Calculator.addition import AddNumber
-from Calculator.subtraction import SubtractNumber
-from Calculator.multiplication import MultiplyNumber
-from Calculator.division import DivideNumber
+from calculator.addition import AddNumber
+from calculator.subtraction import SubtractNumber
+from calculator.multiplication import MultiplyNumber
+from calculator.division import DivideNumber
 
 
 class Calculator:
