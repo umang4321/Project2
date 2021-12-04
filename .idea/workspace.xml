@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fa61690-10b0-4ace-8b4c-0fd86c002d52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ash_history" beforeDir="false" afterPath="$PROJECT_DIR$/.ash_history" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="article-1" />
+        <entry key="$PROJECT_DIR$" value="article-2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,7 +84,8 @@
       <workItem from="1638052893367" duration="2017000" />
       <workItem from="1638058081825" duration="21000" />
       <workItem from="1638058110249" duration="2000" />
-      <workItem from="1638058140742" duration="18288000" />
+      <workItem from="1638058140742" duration="18313000" />
+      <workItem from="1638642898022" duration="3390000" />
     </task>
     <task id="LOCAL-00001" summary="Project 2 initiated">
       <created>1638053321033</created>
@@ -124,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638139667612</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updating article 2">
+      <created>1638286572895</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638286572895</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +139,8 @@
     <MESSAGE value="Project 2 initiated" />
     <MESSAGE value="Article 1 updated code" />
     <MESSAGE value="Article 2 initiated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Article 2 initiated" />
+    <MESSAGE value="updating article 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating article 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project2$main.coverage" NAME="main Coverage Results" MODIFIED="1637716158448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
